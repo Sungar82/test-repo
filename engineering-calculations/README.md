@@ -1,4 +1,3 @@
-
 # Engineering Calculations
 
 This folder contains engineering calculation methods, formulas, assumptions, and worked examples.
